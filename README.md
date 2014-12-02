@@ -1,6 +1,7 @@
 # fireflies-quil
 
-A Quil sketch designed to ... well, that part is up to you.
+A Quil sketch designed to demonstrate the self-organizing properties
+of fireflies.
 
 ## Usage
 
